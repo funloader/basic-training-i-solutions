@@ -10,26 +10,26 @@ Python scripts have the file extension .py.
 
 To run a Python script, type python variables.py (or any other file name) and hit enter.
 
-Project Files
-← README.md
+**Project Files**
+* README.md
 That's this file, with the workshop instructions.
 
-← function.py
+* function.py
 Creating functions so we can reuse blocks of code.
 
-← imports.py
+* imports.py
 How to import other Python libraries, so we can extend the functionality of Python even more.
 
-← lists.py
+* lists.py
 Creating arrays and lists of variables.
 
-← loops.py
+* loops.py
 How to repeat code over and over and over again - quickly!
 
-← returns.py
+* returns.py
 How to return values from functions.
 
-← variables.py
+* variables.py
 The building blocks of information in any programming language.
 
 Made by [Glitch](https://glitch.com/)
