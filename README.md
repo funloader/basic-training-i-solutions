@@ -1,6 +1,6 @@
-# basic-training-i-solutions
+## basic-training-i-solutions
 Intro to Python Skills for AI, Part I - Solutions
-Welcome to the workshop!
+Welcome to the workshop! 
 
 This is where we are going to write and run our code.
 
@@ -32,7 +32,7 @@ How to return values from functions.
 ← variables.py
 The building blocks of information in any programming language.
 
-Made by Glitch(https://glitch.com/)
+Made by [Glitch](https://glitch.com/)
 Glitch is the friendly community where you'll build the app of your dreams. Glitch lets you instantly create, remix, edit, and host an app, bot or site, and you can invite collaborators or helpers to simultaneously edit code with you.
 
-Find out more about Glitch.https://glitch.com/about
+Find out more [about Glitch](https://glitch.com/about )
